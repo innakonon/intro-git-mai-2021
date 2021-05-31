@@ -1,3 +1,7 @@
 Home page
 lien vers styles.css
+<<<<<<< HEAD
 lien vers le panier
+=======
+lien vers le login
+>>>>>>> gestion-login
